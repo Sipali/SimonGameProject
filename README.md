@@ -10,7 +10,7 @@ A classic memory game built with JS, HTML, and CSS. Repeat the color/sound seque
 - Visual flashes + audio tones per color
 - Score/level tracker and Game Over state
 - Keyboard and mouse/touch support
-- Clean, responsive UI (works on desktop & mobile)
+- Clean responsive UI (works on desktop & mobile)
 
 ## How to Play
 
